@@ -1,4 +1,4 @@
-# COVID-CNN-Model
+# Convolutional Neural Network to predict if a Patient has COVID
 Building a Convolutional Neural Network to detect whether a patient has COVID from X-ray images.
 
 This project was built for University of Georgia's CSCI 4360(Data Science 2) Class. 

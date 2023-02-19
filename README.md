@@ -16,7 +16,7 @@ We have an image classfication problem. Given X-ray images already labeled wheth
 The COVID Classification CNN Workshop.ipynb file is the notebook containing all our code for using TensorFlow's layers package to construct a Convolutional Neural Network to predict whether a patient has COVID based on their X-ray image.
 
 # Project Outcome
-Below we can see the loss graphs from training the COnvolutional Neural Network, Confusion Matrix of predictions made to the Validation dataset, and predictions made to new never-seen-before X-ray images.
+Below we can see the loss graphs from training the Convolutional Neural Network, Confusion Matrix of predictions made to the Validation dataset, and predictions made to new never-seen-before X-ray images.
 
 ![CNN_Loss_Graph](https://github.com/stevenzhang070302/COVID-CNN-Model/blob/main/CNN_Loss_Graph.png)
 
